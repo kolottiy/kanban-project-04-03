@@ -6,20 +6,15 @@
 
 ### Посилання на задачі
 
-1. Написання технічного завдання  
-https://github.com/kolottiy/kanban-project-04-03/issues/2  
+1. [Написання технічного завдання](https://github.com/kolottiy/kanban-project-04-03/issues/2)
 
-2. Формування датасету  
-https://github.com/kolottiy/kanban-project-04-03/issues/3  
+2. [Формування датасету](https://github.com/kolottiy/kanban-project-04-03/issues/3)
 
-3. Вибір та запуск моделі  
-https://github.com/kolottiy/kanban-project-04-03/issues/4  
+3. [Вибір та запуск моделі](https://github.com/kolottiy/kanban-project-04-03/issues/4)
 
-4. Вибір та оцінка метрик  
-https://github.com/kolottiy/kanban-project-04-03/issues/5  
+4. [Вибір та оцінка метрик](https://github.com/kolottiy/kanban-project-04-03/issues/5)
 
-5. Формування звіту з результатами  
-https://github.com/kolottiy/kanban-project-04-03/issues/1
+5. [Формування звіту з результатами](https://github.com/kolottiy/kanban-project-04-03/issues/1)
 
 ### Посилання на репозиторій
 
