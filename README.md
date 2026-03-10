@@ -1,5 +1,5 @@
-[![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)](https://github.com/kolottiy/kanban-project-04-03)
-[![GitHub issues](https://img.shields.io/github/issues/kolottiy/kanban-project-04-03)](https://github.com/kolottiy/kanban-project-04-03/issues)
+![Project Status](https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/kolottiy/kanban-project-04-03?style=for-the-badge)
 
 # kanban-project-04-03
 ## Результати роботи
