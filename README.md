@@ -19,7 +19,7 @@ https://github.com/kolottiy/kanban-project-04-03/issues/4
 https://github.com/kolottiy/kanban-project-04-03/issues/5  
 
 5. Формування звіту з результатами  
-https://github.com/kolottiy/kanban-project-04-03/issues/1  
+https://github.com/kolottiy/kanban-project-04-03/issues/1
 
 ### Посилання на репозиторій
 
