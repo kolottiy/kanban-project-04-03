@@ -2,7 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/kolottiy/kanban-project-04-03?style=for-the-badge)](https://github.com/users/kolottiy/projects/1)
 
 # kanban-project-04-03
-## Результати роботи
+## фіналізація результатів
 
 Для організації процесу виконання проєкту була створена Kanban-дошка у GitHub Projects.  
 На дошці сформовано задачі відповідно до основних етапів виконання роботи.
